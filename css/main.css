@@ -94,11 +94,36 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+/*rules page accueil*/
+
+/*rules common*/
+figure
+{
+  margin: 0;
+}
+
+img
+{
+  width: 100%;
+}
+/*end rules common*/
+
+/*rules div class carousel*/
+.d-block
+{
+  height: 100vh;
+}
+
+.carousel-caption
+{
+font-family: 'Press Start 2P', cursive;
+font-family: 'Indie Flower', cursive;
+font-size: 23px;
+}
+/*end rules div class carousel*/
 
 
-
-
-
+/*end rules page accueil*/
 
 
 
