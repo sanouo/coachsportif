@@ -125,7 +125,11 @@ font-size: 23px;
 
 /*end rules page accueil*/
 
-
+.foto img
+{
+  width: 100%;
+  max-width: 100%;
+}
 
 
 
