@@ -97,12 +97,12 @@ textarea {
 /*rules page accueil*/
 
 /*rules common*/
-figure
+.carousel-item
 {
   margin: 0;
 }
 
-img
+.carousel-item img
 {
   width: 100%;
 }
@@ -127,8 +127,11 @@ font-size: 23px;
 
 
 
-
-
+/*
+.card
+{
+  width: 40%;
+}*/
 
 
 
