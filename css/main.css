@@ -125,11 +125,33 @@ font-size: 23px;
 
 /*end rules page accueil*/
 
-.foto img
+/*rules page presentation*/
+.presentation h1
 {
-  width: 100%;
-  max-width: 100%;
+  margin-left: 5%;
+  margin-top: 1em;
 }
+
+.presentation .description
+{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.presentation .description .info
+{
+  margin-top: 1em;
+  width: 90%;
+}
+
+.presentation .description .fotoHomme img
+{
+  width: 90%;
+  height: 400px;
+}
+/*end rules page presentation*/
+
+
 
 
 
