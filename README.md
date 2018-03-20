@@ -12,3 +12,4 @@ Dans les pages vous ferez apparaître les éléments suivants :
 - Un agenda pour voir les disponibilités du coach
 - Une google map
 - Des cartes Bootstrap
+# sportifCoach
